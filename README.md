@@ -25,7 +25,7 @@
 * [FoodData Central (USDA)](https://fdc.nal.usda.gov/) - The definitive scientific source for food and nutrient data from the United States.
 * [Food.com Recipes and Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions) - A massive dataset of 230k+ recipes and 1.1M+ reviews (perfect for recommender systems).
 * [Recipe Box](https://github.com/dpapathanasiou/recipes) - A clean, stable collection of thousands of cooking recipes in structured JSON format.
-* [Global Food Research Program](https://www.globalfoodresearchprogram.org/resources/data-and-methods/) - Data resources focusing on food policy, labeling, and global nutrition.
+
 ## Open Source Projects
 
 * [Grocy](https://grocy.info/) - An ERP (Enterprise Resource Planning) solution for your kitchen to manage groceries and household tasks.
